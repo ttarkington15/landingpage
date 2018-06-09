@@ -1,0 +1,26 @@
+body {
+    position: relative;
+    margin-top: 20px;
+  }
+
+.intro{
+    background: url(http://via.placeholder.com/960x700) no-repeat center center;
+    background-size: cover;
+    padding: 200px;
+}
+
+#about {
+    margin-top: 10px;
+}
+
+.portfolio-item a{
+    color: black;
+}
+
+footer{
+    margin-top: 20px;
+    margin-bottom: 70px;
+}
+#contact {
+
+}
