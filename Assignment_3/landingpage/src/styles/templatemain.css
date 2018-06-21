@@ -3,8 +3,14 @@ body {
     margin-top: 20px;
   }
 
+.navbar {
+    background-color: transparent;
+    background: transparent;
+    border-color: transparent;
+}
+/* need to be able to save background as a local file */
 .intro{
-    background: url(http://via.placeholder.com/960x700) no-repeat center center;
+    background: url(https://ununsplash.imgix.net/uploads/1412825195419af52b492/8bc72ed7?q=75&fm=jpg&s=4f35827a6dc766d393fc51fce493d85d) no-repeat center center;
     background-size: cover;
     padding: 200px;
 }
@@ -20,7 +26,4 @@ body {
 footer{
     margin-top: 20px;
     margin-bottom: 70px;
-}
-#contact {
-
 }
